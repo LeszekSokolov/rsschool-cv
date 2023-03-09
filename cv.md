@@ -21,6 +21,7 @@ I am talented and dependable administrator, skilled in all aspects of management
 - CSS3
 - Git
 - Webpack
+- React
 
 ## Code Examples
 
